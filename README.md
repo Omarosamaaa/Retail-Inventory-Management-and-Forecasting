@@ -25,7 +25,7 @@ Deploy the forecasting model using Azure Machine Learning for automated MLOps.
 Design an intuitive dashboard to visualize inventory predictions and trends.
 ---
 ### Team Members : 
-Omar Osama Abdelfadel Ahmed
+Omar Osama Abdelfadel Ahmed -
 Abdelhameed Ayman Abdelhameed mahmoud
 
 
